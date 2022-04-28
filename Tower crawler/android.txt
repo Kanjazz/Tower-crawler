@@ -1,0 +1,4 @@
+title=Hello World
+author=НЁХ
+orientation=portrait
+
